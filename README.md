@@ -39,15 +39,10 @@
 ## 📖 Tecnologias que estou aprendendo
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwindcss" align="center" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" align="center" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" align="center" />
 </div>
 <br />
 
-## 📚 Tecnologias que pretendo aprender
-<div style="display: inline-block">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" align="center" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" align="center" />
-</div>
 
 ## 🚶‍♂️ Quem sou eu
 <p>👨 Nome: <b>Davi Koehler </b></p>
