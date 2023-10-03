@@ -46,6 +46,6 @@
 
 ## 🚶‍♂️ Quem sou eu
 <p>👨 Nome: <b>Davi Koehler </b></p>
-<p>📅 Idade: <b>25 anos</b></p>
+<p>📅 Idade: <b>27 anos</b></p>
 <p>👔 Profissão: <b>Desenvolvedor Full Stack</b></p>
 <p>Sobre mim: <b>Sou um amante de tecnologia. Gosto sempre de aprender coisas novas, resolver problemas e automatizar situações que demandem muito tempo. Atualmente, estou aprendendo sobre Laravel, Flutter e um pouco de React. Tenho focado bastante na stack Flutter para desenvolver soluções Mobile.</b>
